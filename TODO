@@ -1,0 +1,5 @@
+only enable ball color button of player
+add disconnect handling
+refactor ball color switching (probably can find a way to only use one method instead of two)
+add random map generation
+add randomly generated maps
