@@ -1,7 +1,7 @@
 // local development socket
-const socket = io('localhost:3000');
+//const socket = io('localhost:3000');
 // heroku deployment socket
-//const socket = io('');
+const socket = io('https://still-thicket-37510.herokuapp.com/');
 
 const initialScreen = document.getElementById('initialScreen');
 const usernameInput = document.getElementById('usernameInput');
